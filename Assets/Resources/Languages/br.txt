@@ -1,0 +1,9 @@
+PLAYBUTTON=JOGAR
+SETTINGSBUTTON=Configuracao
+MENUBUTTON=Menu
+RULESMENUNAME=Como jogar
+RESUMEBUTTON=Resumo
+RULESMENUTEXT=Colete blocos identicos de slimes, formando blocos maiores. Ganhe pontos e estabeleca novos recordes!
+SETTINGSMENUNAME=Configuracao
+LEADERBOARD=Tabela de classificacao
+PAUSETEXT=Pausa

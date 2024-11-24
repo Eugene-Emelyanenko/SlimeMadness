@@ -1,0 +1,9 @@
+PLAYBUTTON=ИГРАТЬ
+SETTINGSBUTTON=Настройки
+MENUBUTTON=Меню
+RULESMENUNAME=Как играть
+RESUMEBUTTON=Дальше
+RULESMENUTEXT=Собирайте одинаковые блоки слаймов, образуя блоки больше. Зарабатывайте очки и ставьте новые рекорды!
+SETTINGSMENUNAME=Настройки
+LEADERBOARD=Таблица лидеров
+PAUSETEXT=Пауза

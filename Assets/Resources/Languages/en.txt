@@ -1,0 +1,9 @@
+PLAYBUTTON=PLAY
+SETTINGSBUTTON=Setting
+MENUBUTTON=Menu
+RULESMENUNAME=How to play
+RESUMEBUTTON=Resume
+RULESMENUTEXT=Collect identical blocks of slimes, forming bigger blocks. Earn points and set new records!
+SETTINGSMENUNAME=Setting
+LEADERBOARD=Leaderboard
+PAUSETEXT=Pause
